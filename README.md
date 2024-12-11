@@ -1,12 +1,34 @@
-👋 Hi, I’m @mhmdrezachizari
-👀 I’m interested in backend development with Django and Python. I also have experience with frontend development using Next.js and React.
-🌱 I’m currently learning advanced techniques in databases and cloud technologies.
-💼 I have authored two books:
+# 👋 Hi, I’m @mhmdrezachizari  
 
-    Book 1: Teaching Python for beginners
-    Book 2: Teaching Redis and performance optimization
-    📚 I am a backend developer with deep expertise in Python and Django, and I also use Next.js and React for frontend web development.
-    💞️ I’m looking to collaborate on open-source projects and build scalable, real-world applications.
-    📫 You can reach me through [email/LinkedIn/Twitter].
-    😄 Pronouns: he/him
-    ⚡ Fun fact: I love writing code and learning new technologies constantly!
+### 💻 A Fullstack Developer  
+
+👀 I’m interested in backend development with **Django** and **Python**, and I also have experience with frontend development using **Next.js** and **React**.  
+🌱 I’m currently learning advanced techniques in databases and cloud technologies.  
+
+---
+
+### 📚 Books I Have Authored:  
+- **Teaching Python for Beginners**  
+- **Teaching Redis and Performance Optimization**  
+
+---
+
+### 🔧 Skills and Tools:  
+- **Backend:** Python, Django, REST API, PostgreSQL, Redis  
+- **Frontend:** React, Next.js, Tailwind CSS  
+- **Others:** Docker, RabbitMQ, Git, Cloud Deployment  
+
+---
+
+### 🤝 Collaboration:  
+💞️ I’m looking to collaborate on open-source projects and build scalable, real-world applications.  
+
+---
+
+### 📫 How to Reach Me:  
+- [Email](mailto:mhmdrezachizari@gmail.com)  
+- [LinkedIn](www.linkedin.com/in/mohammad-chizari-5a95932b4)  
+---
+
+😄 **Pronouns:** he/him  
+⚡ **Fun Fact:** I love writing code and constantly learning new technologies!  
