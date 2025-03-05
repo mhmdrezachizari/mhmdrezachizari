@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @mhmdrezachizari  
 
-### 💻 A Fullstack Developer  
+### 💻 A Backend Developer  
 
 👀 I’m interested in backend development with **Django** and **Python**, and I also have experience with frontend development using **Next.js** and **React**.  
 🌱 I’m currently learning advanced techniques in databases and cloud technologies.  
@@ -15,7 +15,6 @@
 
 ### 🔧 Skills and Tools:  
 - **Backend:** Python, Django, REST API, PostgreSQL, Redis  
-- **Frontend:** React, Next.js, Tailwind CSS  
 - **Others:** Docker, RabbitMQ, Git, Cloud Deployment  
 
 ---
