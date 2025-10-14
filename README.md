@@ -1,15 +1,15 @@
 <h1 align="center">👋 Hi, I'm Mohammadreza Chizari</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=650&lines=💻+Senior+Backend+Developer;🧠+Python+%7C+Django+%7C+FastAPI+%7C+ML;🚀+Building+Scalable+Microservices;☁️+Cloud+and+Performance+Enthusiast" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=650&lines=💻+Senior+Backend+Developer;🧠+Python+%7C+Django+%7C+FastAPI+%7C+ML;🚀+Building+Scalable+Microservices;☁️+Cloud+and+Database+Expert" alt="Typing Animation">
 </p>
 
 ---
 
 ### 🧑‍💻 About Me  
-I'm a passionate **Backend Developer** who loves creating high-performance, scalable systems using **Django**, **FastAPI**, and **Python**.  
-I have solid experience with **microservices**, **real-time applications** using **Django Channels**, and **asynchronous architecture** with **Celery** and **Redis**.  
-In addition, I integrate **machine learning models (PyTorch, scikit-learn)** into backend systems for smart and data-driven applications.  
+I'm a passionate **Backend Developer** who loves building high-performance, scalable systems using **Django**, **FastAPI**, and **Python**.  
+I design **microservice architectures**, create **real-time apps** with **Django Channels**, and optimize performance using **Celery**, **Redis**, and advanced database techniques.  
+I also integrate **machine learning models** with **PyTorch** and **scikit-learn** into backend systems for intelligent API services.  
 
 ---
 
@@ -30,6 +30,9 @@ In addition, I integrate **machine learning models (PyTorch, scikit-learn)** int
 
 #### 🗄 Databases & Caching  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-018BFF?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 #### ⚙️ Tools & DevOps  
@@ -44,11 +47,11 @@ In addition, I integrate **machine learning models (PyTorch, scikit-learn)** int
 
 ### 🚀 Projects & Experience  
 
-- 🧩 **Scalable Microservice Architecture** — built using **FastAPI**, **Redis**, and **Celery**  
-- 💬 **Real-Time Communication System** — implemented via **Django Channels** and **WebSockets**  
-- 🤖 **Machine Learning Integration** — embedded **PyTorch models** inside backend for prediction APIs  
-- 🗄 **High-Performance Databases** — optimized PostgreSQL queries, caching with Redis  
-- 🐳 **Full Dockerized Deployment** — CI/CD pipelines, multi-container environments  
+- 🧩 **Scalable Microservice Architecture** — built using **FastAPI**, **Docker**, **Celery**, and **Redis**  
+- 💬 **Real-Time Communication Platform** — implemented with **Django Channels**, **WebSockets**, and **Redis**  
+- 🧠 **ML-Enhanced APIs** — integrated **PyTorch models** into backend for real-time predictions  
+- 🗄 **Hybrid Database Systems** — combined **PostgreSQL**, **MongoDB**, and **Neo4j** for structured, document, and graph data  
+- ☁️ **Cloud Deployment** — containerized microservices deployed via **Docker Compose / CI/CD pipelines**
 
 ---
 
@@ -59,7 +62,7 @@ In addition, I integrate **machine learning models (PyTorch, scikit-learn)** int
 ---
 
 ### 🤝 Collaboration  
-💞️ Open to working on **open-source projects**, **AI-driven backends**, and **microservice-based systems**.  
+💞️ Open to working on **AI-driven backends**, **microservice architectures**, and **open-source** projects.  
 
 ---
 
@@ -70,7 +73,7 @@ In addition, I integrate **machine learning models (PyTorch, scikit-learn)** int
 ---
 
 ### ⚡ Fun Fact  
-> I love combining backend performance with AI power to build intelligent, scalable systems 🚀  
+> I love combining backend performance with data intelligence and AI power 🚀  
 
 ---
 
